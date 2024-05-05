@@ -19,7 +19,7 @@ using namespace std;
         }
         return result;
     }
-
+  
 
 int main(int argc, char const *argv[])
 {
