@@ -33,6 +33,8 @@
 - [X] 31. 移除元素
 - [X] 32. [长度最小的子数组](./分类/数组/长度最小的子数组/题解.md)
 - [X] 33. [螺旋矩阵](./分类/数组/螺旋矩阵/题解.md)
+- [X] 34. [移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/description/)
+- [X] 35. [设计链表](https://leetcode.cn/problems/design-linked-list/description/)
 
 
 
