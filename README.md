@@ -35,6 +35,8 @@
 - [X] 33. [螺旋矩阵](./分类/数组/螺旋矩阵/题解.md)
 - [X] 34. [移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/description/)
 - [X] 35. [设计链表](https://leetcode.cn/problems/design-linked-list/description/)
+- [X] 36. [反转链表](https://leetcode.cn/problems/reverse-linked-list/description/)
+- [X] 37. [两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/description/)
 
 
 
