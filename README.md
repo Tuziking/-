@@ -37,6 +37,8 @@
 - [X] 35. [设计链表](https://leetcode.cn/problems/design-linked-list/description/)
 - [X] 36. [反转链表](https://leetcode.cn/problems/reverse-linked-list/description/)
 - [X] 37. [两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/description/)
+- [X] 38. [删除链表的倒数第N个结点](https://leetcode.cn/problems/swap-nodes-in-pairs/description/)
+- [X] 39. [链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/description/)
 
 
 
