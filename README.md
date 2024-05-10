@@ -39,6 +39,8 @@
 - [X] 37. [两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/description/)
 - [X] 38. [删除链表的倒数第N个结点](https://leetcode.cn/problems/swap-nodes-in-pairs/description/)
 - [X] 39. [链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/description/)
+- [X] 40. [环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/description/)
+- [X] 40. [有效的字母异位词](https://leetcode.cn/problems/valid-anagram/description/)
 
 
 
