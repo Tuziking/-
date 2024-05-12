@@ -40,7 +40,11 @@
 - [X] 38. [删除链表的倒数第N个结点](https://leetcode.cn/problems/swap-nodes-in-pairs/description/)
 - [X] 39. [链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/description/)
 - [X] 40. [环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/description/)
-- [X] 40. [有效的字母异位词](https://leetcode.cn/problems/valid-anagram/description/)
+- [X] 41. [有效的字母异位词](https://leetcode.cn/problems/valid-anagram/description/)
+- [X] 42. [两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays/description/)
+- [X] 43. [快乐数](https://leetcode.cn/problems/happy-number/submissions/530939542/)
+- [X] 44. [两数之和](https://leetcode.cn/problems/two-sum/)
+- [X] 44. [四数相加 II](https://leetcode.cn/problems/4sum-ii/description/)
 
 
 
