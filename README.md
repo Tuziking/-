@@ -47,6 +47,8 @@
 - [X] 45. [四数相加 II](https://leetcode.cn/problems/4sum-ii/description/)
 - [X] 46. [赎金信](https://leetcode.cn/problems/ransom-note/description/)
 - [X] 47. [三数之和](https://leetcode.cn/problems/3sum/description/)
+- [X] 48. [四数之和](https://leetcode.cn/problems/4sum/description/)
+- [X] 49. [反转字符串](https://leetcode.cn/problems/reverse-string/description/)
 
 
 
